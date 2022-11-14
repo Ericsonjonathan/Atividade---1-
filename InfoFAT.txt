@@ -1,0 +1,38 @@
+                       InfoFAT
+
+1.Resumo
+O campus UERJ-FAT está localizado no polo industrial em Resende, no campus há três cursos de graduação, são eles engenharia química ,engenharia de produção, engenharia mecânica e também pós-graduação. Na instituição de ensino recebe vários alunos ao longo do ano e tendo centenas de alunos matriculados no campus regional. Além dos alunos há os docentes e funcionários  que formam a faculdade de tecnologia UERJ Resende. Devido a esse grande fluxo de pessoas no campus acaba surgindo alguns problemas relacionados às informações internas, como por exemplos: datas de eventos, aulas canceladas, salas onde serão ministradas as aulas e outros mais. 
+Muitas dessas informações são passadas por redes sociais, porém mesmo estando no século onde essas redes dominam o mundo, existem milhares de pessoas que não fazem o uso dessas tais ferramentas o que não seria diferente na FAT, com isso,  alguns alunos ou funcionários são prejudicados por  não terem acesso às redes sociais. Nesse cenário, o grupo propõe a criação da ferramenta InfoFAT. Tal instrumento tem como finalidade promover acesso às informações sobre aulas, eventos e atividades extra curriculares.
+ O InfoFAT será um aplicativo ou uma  plataforma, onde terá usuário  administrador  que serão para aqueles que fazem parte de departamentos,como secretariado, de curso e também para grupo de discentes como por exemplo: atlética  e o centro acadêmico, os demais serão usuários para utilizar o aplicativo e receber as notificações. O aplicativo terá informações ,calendário e avisos de cada departamento, basta o usuário não administrador ativar essas notificações do departamento de interesse dele para recebê-las .Já para aqueles que serão administradores, eles terão acesso para adicionar e editar  essas informações para os usuários.Na plataforma de administrador  terá  a alternativa para escolher o departamento, e depois de  escolhido a próxima etapa será adicionar as informações nas opções calendário, eventos entre outras informações.
+
+2.Justificativa 
+Na FAT  há centenas de alunos e dezenas de professores, muitos não estão todos os dias no campus  e como  dito anteriormente nem todos  utilizam redes sociais, onde são colocadas  a maioria das informações do campus . Portanto a plataforma será para suprir esse problema que causa várias situações como ausência de público em evento, em aulas  que teve mudanças de sala, aulas canceladas por algum motivo  e assim por diante.Logo com  InfoFAT todos serão incluídos, sejam professores, alunos e demais funcionários que compõem a instituição, recebendo os devidos avisos por meio dessa plataforma. Por isso a criação de tal será de extrema importância para todos e ajudará o ambiente acadêmico.
+
+3.Objetivo 
+A formulação do projeto tem como objetivo auxiliar a FAT com essa questão de transmitir notificações para todos, a fim de garantir que nenhum membro seja prejudicado por falta de avisos  por meio não institucionais e assim mantendo de forma inclusiva as informações.
+4.Metodologia 
+O estudo deste projeto será realizado no campus FAT com a participação de todos que frequentam a instituição. Desta maneira iremos recolher observações dos membros da FAT a fim de aumentar o nosso objetivo que é suprir a deficiência em informações acessíveis para todos.Por meio de um formulário  onde os possíveis usuários irão responder algumas perguntas e fazerem algumas observações.O formulário ficará disponível por 7 dias, logo após iremos analisar os dados fornecidos e começaremos desenvolvimento do projeto. A princípio iremos analisar as deficiências para que possamos criar a plataforma para usuários administrativos onde os mesmo irão fornecer as informações usuais para suprir essas deficiências.Sendo assim o projeto será iniciado com a  criação de uma  aba para administrador  onde esse administrador terá duas novas abas que será um calendário e eventuais mudanças .O calendário deverá ser feito pelo administrador e terá que ter os eventos agendados, o mesmo pode ser editado a qualquer momento  e também terá uma aba de mudanças onde qualquer evento cancelado ou mudança de datas será informado nesta aba para o usuário receber a notificação do departamento .Para os usuários não administrativos eles  terão  disponível na aba principal precisando ativar o calendário de notificações para receber as informações .
+
+5.Cronograma 
+O cronograma do projeto
+
+
+DATA 21/11/22
+	Primeira etapa:Criar formulário e fornecer para membros do campus; 
+
+DATA:28/11/22
+	Segunda etapa:Recolher e  fazer tabulação dos dados; 
+
+DATA:05/12//22
+	Terceira etapa:Apresenta os dados para professor;
+
+DATA:05/01/23
+	Quarta etapa:Desenvolvimento do aplicativo/plataforma;
+
+DATA:09/02/23
+	Quinta Etapa:Testar o aplicativo e entregar.
+
+
+
+6.Resultados Esperados 
+Tendo em vista que o aplicativo tem como finalidade uma melhor  interação entre todas unidades acadêmicas dentro do campus. Espera-se que o objetivo seja alcançado de forma a agregar à comunicação dentro do polo e suprir a deficiência de plataformas de informações.
